@@ -1,6 +1,6 @@
 import React from 'react';
 
-const data = "Hello world"
+const data = "Welcome to NinjaWeb!"
 
 const Home = (props) => {
 return (

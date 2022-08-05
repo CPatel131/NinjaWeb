@@ -5,7 +5,7 @@ NavLink,
 Bars,
 NavMenu
 } from './NavbarElements';
-
+//Sets up Navbar in website
 const Navbar = () => {
 return (
 	<>

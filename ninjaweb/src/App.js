@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Home2 from "./pages/home"
-
+//Login page to check if admin user is logging in
 function App() {
   // React States
   const [errorMessages, setErrorMessages] = useState({});
